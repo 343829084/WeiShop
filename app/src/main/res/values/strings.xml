@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">微店</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="home">首页</string>
+    <string name="category">分类</string>
+    <string name="new_product">新品</string>
+    <string name="man_product">男装</string>
+    <string name="price">现价 ￥</string>
+    <string name="original_price">原价 ￥</string>
+    <string name="beauty_girl">美女</string>
+    <string name="beauty_boy">帅哥</string>
+</resources>
